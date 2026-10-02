@@ -167,8 +167,3 @@ All contributions require review before any result involving a named company is 
 - **Evidence & Reports:** [Creative Commons Attribution 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). Journalists, researchers, and regulators can reuse evidence with credit.
 - **Name & Branding:** The name "CANDID", the logo, and associated branding are **trademarked** and may not be used without written permission. See [TRADEMARK.md](TRADEMARK.md).
 
-## Team
-
-**Team DESTINY**, Smart India Hackathon
-
-Built by [@rahulsanjiv-r](https://github.com/rahulsanjiv-r) and contributors.
